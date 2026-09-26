@@ -1,8 +1,8 @@
-# RAID DRAFT Pro Privacy Policy
+# raidDRAFTpro Privacy Policy
 
 **Last updated:** 26 September 2026
 
-RAID DRAFT Pro is a Mac word processor in the Raid Bay product suite. It runs on your computer.
+raidDRAFTpro is a Mac word processor in the Raid Bay product suite. It runs on your computer.
 
 ## What we collect
 
@@ -20,11 +20,11 @@ These are stored in files you choose and in standard macOS app preferences (User
 
 ## Retention and deletion
 
-You control the files. Delete a document in Finder to delete it. Uninstalling RAID DRAFT Pro removes the app and its preferences. There is no account to delete and no server copy to request.
+You control the files. Delete a document in Finder to delete it. Uninstalling raidDRAFTpro removes the app and its preferences. There is no account to delete and no server copy to request.
 
 ## Permissions
 
-RAID DRAFT Pro uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
+raidDRAFTpro uses the App Sandbox. It reads and writes only files you pick in Open/Save panels, and it can print.
 
 The app does not require network access.
 
@@ -38,6 +38,6 @@ If this policy changes, the date at the top will change and the updated policy w
 
 ## Contact
 
-Questions about this policy: open an issue at [github.com/lightningmafia/RAID-DRAFT-PRO](https://github.com/lightningmafia/RAID-DRAFT-PRO/issues).
+Questions about this policy: open an issue at [github.com/lightningmafia/raidDRAFTpro](https://github.com/lightningmafia/raidDRAFTpro/issues).
 
-Web version: https://lightningmafia.github.io/RAID-DRAFT-PRO/privacy.html
+Web version: https://lightningmafia.github.io/raidDRAFTpro/privacy.html
