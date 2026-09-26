@@ -1,14 +1,14 @@
 App Store name
-White Draft Pro
+Raid Draft Pro
 
 Subtitle
 Native Mac word processor
 
 Promotional text
-A native Mac word processor. No account, no analytics, no cloud. Your drafts stay files on your Mac.
+A native Mac word processor in the Raid Bay suite. No account, no analytics, no cloud. Your drafts stay files on your Mac.
 
 Description
-White Draft Pro is a native Mac word processor. It runs on your computer. It does not create an account. It does not send your documents anywhere.
+Raid Draft Pro is a native Mac word processor in the Raid Bay suite. It runs on your computer. It does not create an account. It does not send your documents anywhere.
 
 Open a file, write, save, print. Documents stay where you put them. Comments stay on the document. Preferences stay in standard macOS settings.
 
@@ -19,16 +19,16 @@ No Microsoft account. No telemetry. No network entitlement. The app is sandboxed
 Requires macOS 15 Sequoia or later.
 
 Keywords
-writing,document,offline,rtf,editor,focus,privacy,local,manuscript,print,pdf,spellcheck
+writing,document,offline,rtf,editor,focus,privacy,local,manuscript,print,pdf,spellcheck,raidbay
 
 Support URL
-https://lightningmafia.github.io/white-draft-pro/support.html
+https://github.com/lightningmafia/raid-draft-pro/issues
 
 Marketing URL
-https://lightningmafia.github.io/white-draft-pro/
+https://github.com/lightningmafia/raid-draft-pro
 
 Privacy policy URL
-https://lightningmafia.github.io/white-draft-pro/privacy.html
+https://github.com/lightningmafia/raid-draft-pro/blob/main/PRIVACY.md
 
 Privacy nutrition label
 Tracking: false. Data is not used to track you.
@@ -44,7 +44,7 @@ Sign in: none
 Network: none
 
 Review notes for App Review
-White Draft Pro is a sandboxed macOS word processor. It has no account, no analytics, and no outgoing network use. Demo: launch the app, create a document, type, add a comment, change focus width and theme, print or export, quit. Support is GitHub Issues on this repo. Privacy policy is linked in the app and at the Privacy Policy URL.
+Raid Draft Pro is a sandboxed macOS word processor in the Raid Bay suite. It has no account, no analytics, and no outgoing network use. Demo: launch the app, create a document, type, add a comment, change focus width and theme, print or export, quit. Support is GitHub Issues on this repo. Privacy policy is linked in the app and at the Privacy Policy URL.
 
 Screenshot script
 1. Blank page with native Mac chrome and a few paragraphs.
