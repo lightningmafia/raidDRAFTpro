@@ -1,5 +1,6 @@
-# Night Draft Pro
+# Raid Draft Pro
 
-This app is now **Night Draft Pro**.
+A native macOS word processor in the **Raid Bay** suite (formerly White Draft Pro).
 
-Privacy policy and support live at [github.com/lightningmafia/night-draft-pro](https://github.com/lightningmafia/night-draft-pro).
+**Product line:** Raid Bay → Raid Draft Pro  
+Privacy policy and support live in this repo. The companion repo is [raid-draft](https://github.com/lightningmafia/raid-draft).
