@@ -1,6 +1,6 @@
-# Raid Draft Pro
+# RAID DRAFT Pro
 
 A native macOS word processor in the **Raid Bay** suite (formerly White Draft Pro).
 
-**Product line:** Raid Bay → Raid Draft Pro  
-Privacy policy and support live in this repo. The companion repo is [raid-draft](https://github.com/lightningmafia/raid-draft).
+**Product line:** Raid Bay → RAID DRAFT Pro  
+Privacy policy and support live in this repo. The companion repo is [RAID-DRAFT](https://github.com/lightningmafia/RAID-DRAFT).
